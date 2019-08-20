@@ -1,0 +1,7 @@
+package com.lzw;
+
+public class parents {
+	private final void doit() {
+		
+	}
+}

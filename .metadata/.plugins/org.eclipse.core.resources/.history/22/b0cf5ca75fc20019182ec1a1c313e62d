@@ -1,0 +1,13 @@
+package com.lzw;
+
+import java.util.*;
+
+public class MapText {
+	public static void main(String[] args) {
+		
+		Map<String , String> map = new HashMap<>();
+		
+		Emp emp = new Emp("351", "张三");
+		Emp emp2 = new Emp("351", "张三");
+	}
+}

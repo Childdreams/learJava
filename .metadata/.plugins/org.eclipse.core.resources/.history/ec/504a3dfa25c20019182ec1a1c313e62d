@@ -1,0 +1,16 @@
+package com.lzw;
+
+import java.awt.Container;
+
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class parents {
+	public void main(String[] args) {
+		JFrame jf = new JFrame("test");
+		Container container = jf.getContentPane();
+		JLabel JL = new JLabel("这是一个JLable 窗体");
+		
+		
+	}
+}

@@ -1,0 +1,20 @@
+package test;
+
+public class test {
+	
+	
+	public void test()
+	{
+		//SomeSentence
+	}
+	
+	protected void doSomething()
+	{
+		//SomeSentence
+	}
+	
+	protected static void dolt() {
+		return new test();
+				
+	}
+}

@@ -1,0 +1,7 @@
+package com.lzw;
+
+public class Student {
+	public static void main(String[] args) {
+		String content[] = {"好久不见","最近好吗","常联系"};
+	}
+}

@@ -1,0 +1,10 @@
+package com.lzw;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+public class Muster {
+	public static void main(String[] args) {
+		Collection<String> liStrings = new ArrayList<>();
+	}
+}
